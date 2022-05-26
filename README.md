@@ -37,7 +37,7 @@ Published under GPLv3 License.
         width: 400px;
         height: 10px;
         left: 0px;
-		top : -2px;
+		top : -1px;
         border: 1px solid #ddd;
         border-radius: 10px;
         cursor: pointer;
