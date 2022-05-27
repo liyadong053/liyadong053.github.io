@@ -14,7 +14,6 @@ Published under GPLv3 License.
 
 <head>
     <title>Attitude Indicator</title>
-    <link rel="icon" type="image/png" href="电院校徽.jpg">
     <script src="js/jquery-1.11.3.js"></script>
     <script src="js/d3.min.js"></script>
     <script src="js/jquery.flightindicators.js"></script>
@@ -37,7 +36,7 @@ Published under GPLv3 License.
         width: 400px;
         height: 10px;
         left: 0px;
-		top : 5px;
+		top : -2px;
         border: 1px solid #ddd;
         border-radius: 10px;
         cursor: pointer;
